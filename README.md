@@ -7,4 +7,4 @@ IDF-inverse document frequency:words that occur many times in a document but als
 
 idf is measure of how significant term is in the entire converse 
 
-TFIDF vectorizer coverts the collection of raw document into a matrix of DFIDF features
+TFIDF vectorizer coverts the collection of raw document into a matrix of TFIDF features
